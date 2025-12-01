@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data (ne ide na GitHub)
+data/
+
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+data/
