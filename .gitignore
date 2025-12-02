@@ -1,5 +1,6 @@
 # Jupyter
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/
 .venv/
 
 # Python cache
@@ -9,7 +10,6 @@ __pycache__/
 # Data (ne ide na GitHub)
 data/
 
-.venv/
-.ipynb_checkpoints/
-__pycache__/
-data/
+# backup / checkpoint fajlovi
+*checkpoint.ipynb
+
